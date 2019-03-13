@@ -4,10 +4,10 @@
 @font-face {
   font-family: 'icon';
   src: url("font/icon.eot");
-  src:
+  src: 
 	url("font/icon.eot?#iefix") format('embedded-opentype'),
-	url("font/icon.woff") format('woff'),
-	url("font/icon.ttf") format('truetype'),
+	url("font/icon.woff") format('woff'), 
+	url("font/icon.ttf") format('truetype'), 
 	url("font/icon.svg#icon") format('svg');
   font-weight: normal;
   font-style: normal;
@@ -98,7 +98,7 @@
 	color: #fff;
 	background: #f7cfc6;
 	background: rgba(247,197,185,0.8);
-	font-size: 21px;
+	font-size: 55px;
 	font-weight: 200;
 }
 
@@ -291,3 +291,13 @@
 		margin: 10px 20px 0 0;
 	}
 }
+
+
+
+
+
+
+
+
+
+
