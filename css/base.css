@@ -622,6 +622,9 @@ main {
 		writing-mode: vertical-rl;
 		transform: rotate(180deg);
 	}
+	.tagline2 {
+		font-size: 1rem;
+	}
 	.category {
 		margin: 0;
 		grid-area: category;
