@@ -277,10 +277,12 @@ main {
 	left: 0;
 }
 
+
+
 .slide__title {
 	margin: 0;
 	font-size: 1.5rem;
-	line-height: 0.9;
+	line-height: 1.4;
 	white-space: pre;
 }
 
@@ -642,23 +644,13 @@ main {
 		font-size: 4.5vw;
 	}
 
-	@media screen and (max-width: 480px) {
-  .slide__title {
-    font-size: 1.5vw;
-  }
-}
 
 	.slide__subtitle {
 		margin: 1rem 0 0 0.2rem;
 		max-width: 300px;
 	}
 
-	@media screen and (max-width: 480px) {
-  .slide__subtitle  {
-		margin: 0.3rem 0 0 0.1rem;
-		max-width: 90px;
-  }
-}
+
 
 	.slide__wrap {
 		height: 100%;
@@ -724,4 +716,14 @@ main {
 	.action--details:hover {
 		color: var(--color-details-hover);
 	}
+
+
+.slide__title {
+	display: none;
+}
+
+
+.slide__subtitle {
+	display: none;
+}
 }
