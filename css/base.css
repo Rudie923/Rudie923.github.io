@@ -596,7 +596,7 @@ main {
 	.icon--instagram {
 		transition-delay: 0.1s;
 	}
-	.icon--facebook {
+	.icon--email {
 		transition-delay: 0.15s;
 	}
 	.page-header:hover .social {
