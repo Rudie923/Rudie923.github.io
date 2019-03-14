@@ -437,8 +437,8 @@ main {
 	border: 1px solid #ddd;
 }
 
-.details__color--red {
-	background: red;
+.details__color--grey {
+	background: grey;
 }
 
 .details__color--black {
@@ -557,7 +557,7 @@ main {
 		pointer-events: auto;
 	}
 	.page-header:hover::before {
-		transform: translate3d(0,0,0); 
+		transform: translate3d(0,0,0);
 	}
 	.page-header::after {
 		content: '';
