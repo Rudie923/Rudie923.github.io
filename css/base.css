@@ -716,8 +716,9 @@ main {
 	.action--details:hover {
 		color: var(--color-details-hover);
 	}
+}
 
-
+@media screen and (max-width: 480px) {
 .slide__title {
 	display: none;
 }
